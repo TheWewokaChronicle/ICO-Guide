@@ -152,5 +152,40 @@
       "start_date":"2017-06-21T12:00",
       "end_date":"",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/22/logo.png"
+   },
+   {
+      "id":23,
+      "title":"Dimcoin",
+      "start_date":"2017-07-01T09:00",
+      "end_date":"2017-08-27T09:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/23/logo.png"
+   },
+   {
+      "id":24,
+      "title":"Tezos",
+      "start_date":"2017-07-01T06:00",
+      "end_date":"",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/24/logo.png"
+   },
+   {
+      "id":25,
+      "title":"Starta",
+      "start_date":"2017-07-04T13:00",
+      "end_date":"2017-08-03T13:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/25/logo.png"
+   },
+   {
+      "id":26,
+      "title":"Suretly",
+      "start_date":"2017-07-11T00:00",
+      "end_date":"2017-08-11T23:59",
+      "icon_url":"https://raw3.githubusercontent.com/Destiner/ICO-Guide/master/list/26/logo.png"
+   },
+   {
+      "id":27,
+      "title":"Rialto.ai",
+      "start_date":"2017-07-14T22:00",
+      "end_date":"2017-08-14T22:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/27/logo.png"
    }
 ]
