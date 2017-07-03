@@ -187,5 +187,26 @@
       "start_date":"2017-07-14T22:00",
       "end_date":"2017-08-14T22:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/27/logo.png"
+   },
+   {
+      "id":28,
+      "title":"Aventus",
+      "start_date":"2017-07-19T15:00",
+      "end_date":"2017-07-24T15:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/28/logo.png"
+   },
+   {
+      "id":29,
+      "title":"Starbase",
+      "start_date":"2017-07-15T00:00",
+      "end_date":"2017-08-31T23:59",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/29/logo.png"
+   },
+   {
+      "id":30,
+      "title":"EOS",
+      "start_date":"2017-06-26T13:00",
+      "end_date":"2018-06-01T23:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/30/logo.png"
    }
 ]
