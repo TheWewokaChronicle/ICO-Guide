@@ -2,8 +2,8 @@
    {
       "id":1,
       "title":"Supercomputer Organized by Network Mining",
-      "start_date":"2017-06-15T17:00",
-      "end_date":"2017-06-18T02:30",
+      "start_date":"2017-06-15T17:00+00:00",
+      "end_date":"2017-06-18T02:30+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/1/logo.png"
    },
    {
@@ -16,8 +16,8 @@
    {
       "id":3,
       "title":"DAO.Casino",
-      "start_date":"2017-06-29T03:00",
-      "end_date":"2017-07-26T03:00",
+      "start_date":"2017-06-29T03:00+00:00",
+      "end_date":"2017-07-26T03:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/3/logo.png"
    },
    {
@@ -30,197 +30,197 @@
    {
       "id":5,
       "title":"Status",
-      "start_date":"2017-06-20T14:00",
-      "end_date":"2017-06-21T14:00",
+      "start_date":"2017-06-20T14:00+00:00",
+      "end_date":"2017-06-21T14:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/5/logo.png"
    },
    {
       "id":6,
       "title":"Bancor",
-      "start_date":"2017-06-12T14:00",
-      "end_date":"2017-06-12T17:00",
+      "start_date":"2017-06-12T14:00+00:00",
+      "end_date":"2017-06-12T17:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/6/logo.png"
    },
    {
       "id":7,
       "title":"Aeternity",
-      "start_date":"2017-05-29T00:00",
-      "end_date":"2017-06-12T00:00",
+      "start_date":"2017-05-29T00:00+00:00",
+      "end_date":"2017-06-12T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/7/logo.png"
    },
    {
       "id":8,
       "title":"OnPlace",
-      "start_date":"2017-06-06T00:00",
-      "end_date":"2017-07-06T00:00",
+      "start_date":"2017-06-06T00:00+00:00",
+      "end_date":"2017-07-06T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/8/logo.png"
    },
    {
       "id":9,
       "title":"Giga Watt",
-      "start_date":"2017-06-02T00:00",
-      "end_date":"2017-07-31T19:00",
+      "start_date":"2017-06-02T00:00+00:00",
+      "end_date":"2017-07-31T19:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/9/logo.png"
    },
    {
       "id":10,
       "title":"Opair",
-      "start_date":"2017-06-01T00:00",
-      "end_date":"2017-06-30T16:00",
+      "start_date":"2017-06-01T00:00+00:00",
+      "end_date":"2017-06-30T16:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/10/logo.png"
    },
    {
       "id":11,
       "title":"Monaco",
-      "start_date":"2017-05-18T09:30",
-      "end_date":"2017-06-18T09:30",
+      "start_date":"2017-05-18T09:30+00:00",
+      "end_date":"2017-06-18T09:30+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/11/logo.png"
    },
    {
       "id":12,
       "title":"Storj",
-      "start_date":"2017-05-19T00:00",
-      "end_date":"2017-05-25T00:00",
+      "start_date":"2017-05-19T00:00+00:00",
+      "end_date":"2017-05-25T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/12/logo.png"
    },
    {
       "id":13,
       "title":"MobileGo",
-      "start_date":"2017-04-25T00:00",
-      "end_date":"2017-05-25T00:00",
+      "start_date":"2017-04-25T00:00+00:00",
+      "end_date":"2017-05-25T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/13/logo.png"
    },
    {
       "id":14,
       "title":"Aragon Network",
-      "start_date":"2017-05-17T00:00",
-      "end_date":"2017-05-17T00:00",
+      "start_date":"2017-05-17T00:00+00:00",
+      "end_date":"2017-05-17T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/14/logo.png"
    },
    {
       "id":15,
       "title":"Basic Attention Token",
-      "start_date":"2017-05-31T00:00",
-      "end_date":"2017-05-31T00:00",
+      "start_date":"2017-05-31T00:00+00:00",
+      "end_date":"2017-05-31T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/15/logo.png"
    },
    {
       "id":16,
       "title":"Gnosis",
-      "start_date":"2017-04-24T00:00",
-      "end_date":"2017-04-24T00:00",
+      "start_date":"2017-04-24T00:00+00:00",
+      "end_date":"2017-04-24T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/16/logo.png"
    },
    {
       "id":17,
       "title":"Humaniq",
-      "start_date":"2017-04-06T00:00",
-      "end_date":"2017-04-27T00:00",
+      "start_date":"2017-04-06T00:00+00:00",
+      "end_date":"2017-04-27T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/17/logo.png"
    },
    {
       "id":18,
       "title":"TaaS",
-      "start_date":"2017-03-27T00:00",
-      "end_date":"2017-04-27T00:00",
+      "start_date":"2017-03-27T00:00+00:00",
+      "end_date":"2017-04-27T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/18/logo.png"
    },
    {
       "id":19,
       "title":"Matchpool",
-      "start_date":"2017-04-02T00:00",
-      "end_date":"2017-04-03T00:00",
+      "start_date":"2017-04-02T00:00+00:00",
+      "end_date":"2017-04-03T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/19/logo.png"
    },
    {
       "id":20,
       "title":"Chronobank",
-      "start_date":"2016-12-15T00:00",
-      "end_date":"2017-02-14T00:00",
+      "start_date":"2016-12-15T00:00+00:00",
+      "end_date":"2017-02-14T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/20/logo.png"
    },
    {
       "id":21,
       "title":"TenX",
-      "start_date":"2017-06-24T13:00",
-      "end_date":"2017-06-24T13:05",
+      "start_date":"2017-06-24T13:00+00:00",
+      "end_date":"2017-06-24T13:05+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/21/logo.png"
    },
    {
       "id":22,
       "title":"SkinCoin",
-      "start_date":"2017-06-21T12:00",
-      "end_date":"2017-07-21T12:00",
+      "start_date":"2017-06-21T12:00+00:00",
+      "end_date":"2017-07-21T12:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/22/logo.png"
    },
    {
       "id":23,
       "title":"Dimcoin",
-      "start_date":"2017-07-01T09:00",
-      "end_date":"2017-08-27T09:00",
+      "start_date":"2017-07-01T09:00+00:00",
+      "end_date":"2017-08-27T09:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/23/logo.png"
    },
    {
       "id":24,
       "title":"Tezos",
-      "start_date":"2017-07-01T06:00",
-      "end_date":"2017-07-14T08:30",
+      "start_date":"2017-07-01T06:00+00:00",
+      "end_date":"2017-07-14T08:30+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/24/logo.png"
    },
    {
       "id":25,
       "title":"Starta",
-      "start_date":"2017-07-04T13:00",
-      "end_date":"2017-07-05T09:00",
+      "start_date":"2017-07-04T13:00+00:00",
+      "end_date":"2017-07-05T09:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/25/logo.png"
    },
    {
       "id":26,
       "title":"Suretly",
-      "start_date":"2017-07-11T08:00",
-      "end_date":"2017-08-11T23:59",
+      "start_date":"2017-07-11T08:00+00:00",
+      "end_date":"2017-08-11T23:59+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/26/logo.png"
    },
    {
       "id":27,
       "title":"Rialto.ai",
-      "start_date":"2017-07-14T22:00",
-      "end_date":"2017-08-14T22:00",
+      "start_date":"2017-07-14T22:00+00:00",
+      "end_date":"2017-08-14T22:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/27/logo.png"
    },
    {
       "id":28,
       "title":"Aventus",
-      "start_date":"2017-07-19T15:00",
-      "end_date":"2017-07-24T15:00",
+      "start_date":"2017-07-19T15:00+00:00",
+      "end_date":"2017-07-24T15:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/28/logo.png"
    },
    {
       "id":29,
       "title":"Starbase",
-      "start_date":"2017-07-15T00:00",
-      "end_date":"2017-08-31T23:59",
+      "start_date":"2017-07-15T00:00+00:00",
+      "end_date":"2017-08-31T23:59+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/29/logo.png"
    },
    {
       "id":30,
       "title":"EOS",
-      "start_date":"2017-06-26T13:00",
-      "end_date":"2018-06-01T23:00",
+      "start_date":"2017-06-26T13:00+00:00",
+      "end_date":"2018-06-01T23:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/30/logo.png"
    },
    {
       "id":31,
       "title":"Target Coin",
-      "start_date":"2017-07-15T04:00",
-      "end_date":"2017-08-31T04:00",
+      "start_date":"2017-07-15T04:00+00:00",
+      "end_date":"2017-08-31T04:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/31/logo.png"
    },
    {
       "id":32,
       "title":"Dent",
-      "start_date":"2017-07-12T00:00",
-      "end_date":"2017-07-26T00:00",
+      "start_date":"2017-07-12T00:00+00:00",
+      "end_date":"2017-07-26T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/32/logo.png"
    }
 ]
