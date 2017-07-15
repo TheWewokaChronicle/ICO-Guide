@@ -236,5 +236,19 @@
       "start_date":"2017-07-16T12:00+00:00",
       "end_date":"2017-08-17T11:59+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/34/logo.png"
+   },
+   {
+      "id":35,
+      "title":"CoinDash",
+      "start_date":"2017-07-17T13:00+00:00",
+      "end_date":"2017-08-17T13:00+00:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/35/logo.png"
+   },
+   {
+      "id":36,
+      "title":"Mybit",
+      "start_date":"2017-07-17T09:00+00:00",
+      "end_date":"2017-08-16T09:00+00:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/36/logo.png"
    }
 ]
