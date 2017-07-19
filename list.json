@@ -264,5 +264,19 @@
       "start_date":"2017-08-14T19:00+00:00",
       "end_date":"2018-09-04T19:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/38/logo.png"
+   },
+   {
+      "id":39,
+      "title":"investFeed",
+      "start_date":"2017-07-23T09:00+00:00",
+      "end_date":"2017-08-07T21:00+00:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/39/logo.png"
+   },
+   {
+      "id":40,
+      "title":"TribeToken",
+      "start_date":"2017-07-24T12:00+00:00",
+      "end_date":"2017-08-14T12:00+00:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/40/logo.png"
    }
 ]
