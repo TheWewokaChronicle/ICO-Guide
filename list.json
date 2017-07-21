@@ -278,5 +278,26 @@
       "start_date":"2017-07-24T12:00+00:00",
       "end_date":"2017-08-14T12:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/40/logo.png"
+   },
+   {
+      "id":41,
+      "title":"Everex",
+      "start_date":"2017-07-24T09:00+00:00",
+      "end_date":"",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/41/logo.png"
+   },
+   {
+      "id":42,
+      "title":"Presearch",
+      "start_date":"2017-07-25T14:00+00:00",
+      "end_date":"2017-08-25T14:00+00:00",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/42/logo.png"
+   },
+   {
+      "id":43,
+      "title":"Propy",
+      "start_date":"2017-07-25T00:00+00:00",
+      "end_date":"",
+      "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/43/logo.png"
    }
 ]
