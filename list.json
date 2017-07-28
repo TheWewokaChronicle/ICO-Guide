@@ -191,8 +191,8 @@
    {
       "id":28,
       "title":"Aventus",
-      "start_date":"2017-07-19T15:00+00:00",
-      "end_date":"2017-07-24T15:00+00:00",
+      "start_date":"",
+      "end_date":"",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/28/logo.png"
    },
    {
@@ -241,7 +241,7 @@
       "id":35,
       "title":"CoinDash",
       "start_date":"2017-07-17T13:00+00:00",
-      "end_date":"2017-08-17T13:00+00:00",
+      "end_date":"2017-07-17T17:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/35/logo.png"
    },
    {
@@ -283,7 +283,7 @@
       "id":41,
       "title":"Everex",
       "start_date":"2017-07-24T09:00+00:00",
-      "end_date":"",
+      "end_date":"2017-08-31T09:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/41/logo.png"
    },
    {
@@ -296,7 +296,7 @@
    {
       "id":43,
       "title":"Propy",
-      "start_date":"2017-07-25T00:00+00:00",
+      "start_date":"",
       "end_date":"",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/43/logo.png"
    },
@@ -311,7 +311,7 @@
       "id":45,
       "title":"Tierion",
       "start_date":"2017-07-27T13:00+00:00",
-      "end_date":"",
+      "end_date":"2017-08-10T13:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/45/logo.png"
    },
    {
