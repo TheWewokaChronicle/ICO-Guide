@@ -261,8 +261,8 @@
    {
       "id":38,
       "title":"Spectiv",
-      "start_date":"2017-08-14T19:00+00:00",
-      "end_date":"2018-09-04T19:00+00:00",
+      "start_date":"",
+      "end_date":"",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/38/logo.png"
    },
    {
@@ -296,7 +296,7 @@
    {
       "id":43,
       "title":"Propy",
-      "start_date":"",
+      "start_date":"2017-08-15T06:00+00:00",
       "end_date":"",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/43/logo.png"
    },
@@ -338,8 +338,8 @@
    {
       "id":49,
       "title":"Decentraland",
-      "start_date":"2017-08-08T12:00+00:00",
-      "end_date":"2017-08-16T12:00+00:00",
+      "start_date":"2017-08-18T00:00+00:00",
+      "end_date":"2017-08-27T00:00+00:00",
       "icon_url":"https://raw.githubusercontent.com/Destiner/ICO-Guide/master/list/49/logo.png"
    }
 ]
